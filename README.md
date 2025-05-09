@@ -1,5 +1,5 @@
-Introduction:\
-A client has been laid off recently and he is thinking of switching careers.\
-My goal is to help him identify sectors that he can move into.
+Hello!\
+For this project, we are looking at a dataset on layoffs in the world.\
+I cleaned the data, and conducted EDA using SQL.
 
 Data sourced from: https://layoffs.fyi
